@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import Products from "./features/products/Products"
-import Searchbar from "./Searchbar"
+import Searchbar from "./Search"
 
 function Home({ currentProduct, setCurrentProduct, currentUser }) {
 	const [search, setSearch] = useState("")
