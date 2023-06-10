@@ -20,14 +20,15 @@ This project aims to provide a user-friendly and feature-rich online shopping ex
 - NodeJS (v16), and npm
 - Heroku CLI
 - Postgresql
+- React.js
 
 ## Installation
 1. Clone the repository: https://github.com/DAVID-TECH-GURU/phase-3-project-frontend.git
 2. Navigate to the project directory: `cd phase-3-project-frontend`
 3. Install dependencies: `npm install` or `yarn install`
 
-## BACKEND CODE AND ACCESS
-
+## BACKEND CODE LINK AND ACCESS
+https://github.com/DAVID-TECH-GURU/phase-3-sinatra-react-project-backend.git
 
 
 # Setup
