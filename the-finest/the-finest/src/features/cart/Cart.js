@@ -16,7 +16,7 @@ import { BsFillArrowLeftCircleFill } from "react-icons/bs"
 function Cart({ currentUser, cartData }) {
 	const dispatch = useDispatch()
 		
-	const rows = []
+	const  = []
 	// eslint-disable-next-line
 		cartData ? (
 			cartData.cart_products.map((row) => {
